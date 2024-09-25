@@ -1,2 +1,2 @@
 # yearup-first-repo
-Yearup Java
+YearUp Java
